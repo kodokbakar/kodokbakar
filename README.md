@@ -1,4 +1,4 @@
-# Hi, I'm KodokBakar 👋
+# Hi, I'm Yudhis Pratama (KodokBakar) 👋
 
 ## Open source
 
